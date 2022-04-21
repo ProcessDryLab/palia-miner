@@ -67,7 +67,7 @@
 		<dependency>
 			<groupId>com.github.delas</groupId>
 			<artifactId>palia</artifactId>
-			<version>cff60f1fcd</version>
+			<version>bd435c671b</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
